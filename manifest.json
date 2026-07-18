@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "firmware": "https://github.com/Ram-Ram3/ESP32_OTA1/releases/download/v1.0.1/firmware.bin",
-  "sha256": "8d5b979e35acc04445f8d10688c8e567339b5938e101a73b13db17521ae74a01"
+  "version": "1.0.2",
+  "firmware": "https://github.com/Ram-Ram3/ESP32_OTA1/releases/download/v1.0.2/firmware.bin",
+  "sha256": "<new sha256>"
 }
